@@ -1,11 +1,4 @@
-Script to download videos from wgofo.com (not sure if its completely legal though)
+Slides and code for the presentation.
 
-
-![Alt text](http://i.imgur.com/WwtScX9.png?1)
-
-Dependencies :
-
-+ urllib
-+ BeautifulSoup 4
-
-Change url value "http://www.wgofo.com/season/3" to download other seasons as well.
++ main.py contains a simple demonstration of using twitter trend search without an API
++ [Web link to the presentation](https://docs.google.com/presentation/d/1ztEPNWhwlk5l_XRziAdQk4Ho3BNnM8jy96I6MeMmfjo/pub?start=false&loop=false&delayms=3000)
